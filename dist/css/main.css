@@ -435,7 +435,7 @@ img {
   #home-c .process,
   #about-d .testimonials,
   #contact-b .contact-info,
-  .items {
+  #work-a .items {
     grid-template-columns: 1fr; }
   #home-a .specials div {
     border-bottom: 1px #f4f4f4 solid;
